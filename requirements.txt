@@ -7,4 +7,5 @@ matplotlib
 jupyterlab
 catboost
 dill
+xgboost
 -e .
